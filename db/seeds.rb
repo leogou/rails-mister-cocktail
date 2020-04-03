@@ -1,4 +1,4 @@
-Ingredient.create(name: 'verre de terre')
+Ingredient.create(name: 'vers de terre')
 Ingredient.create(name: 'dent cassée')
 Ingredient.create(name: "crachat d'alcoolique")
 Ingredient.create(name: 'citron')
